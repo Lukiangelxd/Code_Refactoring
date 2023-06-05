@@ -4,6 +4,22 @@
 Heres the Website <link href="https://lukiangelxd.github.io/Code_Refactoring/" />
 
 ## Description
-As a leanrning student in coding bootcamp, I wanted to change Horiseon so that the accessibility alterations were for the best. I accomplished my goal by improving the structure to make it more user freindly and refactoring the CSS codes.
+As a learning student in coding bootcamp, I wanted to change the Horiseon weebsite so the accessibility alterations were avalible. I accomplished my goal by improving the structure to make it more user freindly and refactoring the CSS codes.
 
-## User STory
+## User Story
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+## Acceptance Criteria
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
