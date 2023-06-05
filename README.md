@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 
 ## Horiseon
-Heres the Website <link href="https://lukiangelxd.github.io/Code_Refactoring/">Website<link/>
+Heres the <link href="https://lukiangelxd.github.io/Code_Refactoring/">Website<link/>
 
 ## Description
 As a learning student in coding bootcamp, I wanted to change the Horiseon weebsite so the accessibility alterations were avalible. I accomplished my goal by improving the structure to make it more user freindly and refactoring the CSS codes.
